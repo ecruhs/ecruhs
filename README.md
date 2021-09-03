@@ -1,4 +1,4 @@
-Hi! I'm Emily Cornelius Ruhs and I am a postdoctoral position with Cara Brook at the University of Chicago. 
+Hi! I'm Emily Cornelius Ruhs and I am a postdoctoral scholar with Cara Brook at the University of Chicago. 
 I will be working on laboratory and computational analysis of viral tolerance as well as field aspects of health and viral shedding in bats in Madagascar.
 
 Broadly, I am interested in ecoimmunology, ecophysiology, biological trade-offs, and disease and transmission dynamics. 
